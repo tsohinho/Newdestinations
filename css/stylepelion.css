@@ -517,8 +517,8 @@ line-height: 1.5;
         width: 100%;
       }
     }
-    /* media queries up to 375 mobile phones px */
-    @media screen and (max-width: 375px) {
+    /* media queries up to 399 mobile phones px */
+    @media screen and (max-width: 399px) {
   
       #logo{
         display: block;
