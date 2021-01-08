@@ -456,8 +456,8 @@ body{
       margin-left: 5px;
     }
   }
-  /* media queries up to 399 mobile phones px */
-  @media screen and (max-width: 399px) {
+  /* media queries 375 to 399 mobile phones px */
+  @media screen and (min-width: 375px) and (max-width: 399px) {
   
     #logo{
       display: block;
