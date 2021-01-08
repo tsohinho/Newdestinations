@@ -505,8 +505,8 @@ left:85px;
   width: 100%;
 }
 }
-/* media queries up to 414 to 500 px */
-@media screen and (min-width: 414px) and (max-width: 500px) {
+/* media queries up to 400 to 500 px */
+@media screen and (min-width: 400px) and (max-width: 500px) {
   
   #logo{
     display: block;
